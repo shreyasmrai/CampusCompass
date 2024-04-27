@@ -30,3 +30,11 @@ Technologies used in the project:
 *   LLM
 *   StreamLIT
 *   Lang Chain
+
+<h2>💻 Setup the project</h2>
+
+1. clone the repository:
+'''bash
+git clone https://github.com/shreyasmrai/CampusCompass.git
+
+
