@@ -31,10 +31,14 @@ Technologies used in the project:
 *   StreamLIT
 *   Lang Chain
 
-<h2>💻 Setup the project</h2>
+<h2>💻 clone the repository</h2>
 
-1. clone the repository:
-'''bash
 git clone https://github.com/shreyasmrai/CampusCompass.git
 
+<h2>💻 Installing requirements </h2>
 
+pip install requirements.txt
+
+<h2>💻 run the following command </h2>
+
+streamlit run Logging_added.py
