@@ -32,6 +32,8 @@ Technologies used in the project:
 *   Lang Chain
 
 <h2>Proposed Architecture</h2>
+
+
   ![Blank diagram (1)](https://github.com/shreyasmrai/CampusCompass/assets/113789175/6474aefa-1017-4d3d-b2f4-cfc928d1fc5e)
 
 
